@@ -1,0 +1,27 @@
++++
+fragment = "item"
+date = "2017-10-04"
+lastmod = "2017-10-04"
+weight = 340
+background = "dark"
+selfLink = "resumic"
+align = "right"
+
+title = "Resumic"
+subtitle = "Standardized and generic data schema for a perfect resume/CV"
+
+icon = "fa-id-card-o"
+
+description = """
+* Machine readable based on JSONschema
+* Standardized
+* Huge ecosystem for theming available through Hugo
+* Easy and professional resume generation
+* Versioned resume data.
+"""
+
+[[buttons]]
+  text = "Repository"
+  link = "https://github.com/resumic/schema"
+  color = "outline-light"
++++

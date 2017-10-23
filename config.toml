@@ -1,0 +1,51 @@
+# Site settings
+baseurl = "https://about.okkur.io/"
+languageCode = "en-us"
+title = "Sustainable open source community"
+theme = "syna"
+version = "0.1.0"
+
+DefaultContentLanguage = "en"
+
+[params]
+  name = "Okkur Labs"
+  description = "Sustainable open source community"
+  image = "header.jpg"
+
+  # Branding options
+  [params.branding]
+    #logoNavigation = "logo.svg"
+    textNavigation = "Okkur Labs"
+
+  [params.style]
+    backgroundNavigation = "light"
+    backgroundFooter = "dark"
+
+  # Piwik tracking
+  [params.analytics.piwik]
+    url = "https://stats.seetheprogress.com"
+    id = "14"
+    domain = "about.okkur.io" # Track subdomains via "*.example.com"
+
+  [params.contact]
+    disabled = true
+
+[[menu.main]]
+  url = "#txtdirect"
+  name = "TXTdirect"
+  weight = 10
+
+[[menu.main]]
+  url = "#reposeed"
+  name = "Reposeed"
+  weight = 20
+
+[[menu.main]]
+  url = "#syna"
+  name = "Syna"
+  weight = 30
+
+[[menu.legalFooter]]
+  url = "/about"
+  name = "About Us"
+  weight = 10

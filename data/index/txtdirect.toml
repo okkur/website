@@ -1,0 +1,32 @@
++++
+fragment = "item"
+date = "2017-10-04"
+lastmod = "2017-10-04"
+weight = 310
+background = "light"
+selfLink = "txtdirect"
+align = "left"
+
+title = "TXTdirect"
+subtitle = "DNS TXT-record based redirects"
+
+image = "txtdirect.svg"
+
+description = """
+* Convenient and minimalistic
+* DNS TXT-record base to keep control of your data
+* Open source
+* Transparent redirects
+* No vendor lock-in
+"""
+
+[[buttons]]
+  text = "Project Website"
+  link = "https://about.txtdirect.org"
+  color = "info"
+  
+[[buttons]]
+  text = "Repository"
+  link = "https://github.com/txtdirect/txtdirect"
+  color = "outline-dark"
++++

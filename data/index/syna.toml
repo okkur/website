@@ -1,0 +1,33 @@
++++
+fragment = "item"
+#disabled = false
+date = "2017-10-04"
+lastmod = "2017-10-04"
+weight = 320
+background = "dark"
+selfLink = "syna"
+align = "right"
+
+title = "Syna"
+subtitle = "Full featured open source theme"
+
+image = "syna.svg"
+
+description = """
+* Single to multi page layouts
+* Based on Bootstrap 4
+* Multitude of fragments including contact form, embed media, column/row items and more
+* Fully responsive
+* Customizable with your own colors and javascript
+"""
+
+[[buttons]]
+  text = "Try Demo"
+  link = "https://demo.syna.okkur.io"
+  color = "info"
+
+[[buttons]]
+  text = "Repository"
+  link = "https://github.com/okkur/syna"
+  color = "outline-light"
++++
