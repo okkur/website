@@ -23,10 +23,10 @@ description = """
 [[buttons]]
   text = "Try Demo"
   link = "https://demo.syna.okkur.io"
-  color = "info"
+  color = "secondary"
 
 [[buttons]]
   text = "Repository"
   link = "https://github.com/okkur/syna"
-  color = "outline-light"
+  color = "outline-secondary"
 +++

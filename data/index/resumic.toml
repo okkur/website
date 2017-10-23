@@ -23,5 +23,5 @@ description = """
 [[buttons]]
   text = "Repository"
   link = "https://github.com/resumic/schema"
-  color = "outline-light"
+  color = "outline-secondary"
 +++

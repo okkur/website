@@ -23,10 +23,10 @@ description = """
 [[buttons]]
   text = "Project Website"
   link = "https://about.txtdirect.org"
-  color = "info"
-  
+  color = "secondary"
+
 [[buttons]]
   text = "Repository"
   link = "https://github.com/txtdirect/txtdirect"
-  color = "outline-dark"
+  color = "outline-secondary"
 +++

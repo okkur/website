@@ -23,5 +23,5 @@ description = """
 [[buttons]]
   text = "Visit Repository"
   link = "https://github.com/okkur/reposeed"
-  color = "outline-dark"
+  color = "outline-secondary"
 +++
