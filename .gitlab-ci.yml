@@ -20,7 +20,7 @@ build pages:about for development:
     - dev
   script:
   - git clone -b master $THEME_REPO themes/$THEME
-  - find . -name 'config.toml' -type f -exec sed -i -e 's/about.okkur.io/okkur-io-page-main-dev.netlify.com/g' -- {} +
+  - find . -name 'config.toml' -type f -exec sed -i -e 's/about.okkur.io/page.okkur-dev.services.stpdns.nl/g' -- {} +
   - find . -name 'config.toml' -type f -exec sed -i -e 's/stats.seetheprogress.eu/stats.example.com/g' -- {} +
   - docker run -u $(id -u):$(id -g) -v $(pwd):/source $HUGO_CONTAINER /hugo -s /source
   - netlify deploy -p public -s $SITE_DEV -t $TOKEN_DEV
