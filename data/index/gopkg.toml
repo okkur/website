@@ -2,27 +2,28 @@
 fragment = "item"
 date = "2017-10-04"
 lastmod = "2017-10-04"
-weight = 310
-background = "light"
-selfLink = "txtdirect"
-align = "left"
+weight = 311
+background = "white"
+selfLink = "gopkg"
+align = "right"
 
-title = "txtdirect"
-subtitle = "DNS TXT-record based redirects"
+title = "Gopkg"
+subtitle = "DNS TXT-record based Go package vanity URLs"
 
-image = "txtdirect.svg"
+image = "gopkg.svg"
 
 description = """
+* Auto TLS
 * Convenient and minimalistic
 * DNS TXT-record base to keep control of your data
 * Open source
-* Transparent redirects
+* Transparent vanity redirects
 * No vendor lock-in
 """
 
 [[buttons]]
   text = "Project Website"
-  link = "https://about.txtdirect.org"
+  link = "https://about.txtdirect.org/gopkg"
   color = "secondary"
 
 [[buttons]]

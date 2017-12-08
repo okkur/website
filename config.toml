@@ -1,15 +1,15 @@
 # Site settings
 baseurl = "https://about.okkur.io/"
 languageCode = "en-us"
-title = "Sustainable open source community"
+title = "Sustainable open source research"
 theme = "syna"
-version = "0.1.0"
+version = "0.2.0"
 
 DefaultContentLanguage = "en"
 
 [params]
   name = "Okkur Labs"
-  description = "Sustainable open source community"
+  description = "Sustainable open source research"
   image = "header.jpg"
 
   # Branding options

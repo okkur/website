@@ -10,7 +10,7 @@ align = "right"
 title = "Resumic"
 subtitle = "Standardized and generic data schema for a perfect resume/CV"
 
-icon = "fa-id-card-o"
+icon = "fa-id-card"
 
 description = """
 * Machine readable based on JSONschema

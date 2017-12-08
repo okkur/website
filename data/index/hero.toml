@@ -3,11 +3,12 @@ fragment = "hero"
 date = "2017-10-04"
 lastmod = "2017-10-04"
 weight = 100
-particles = true
+background = "dark"
+particles = false
 
 title = "Okkur Labs"
 subtitle = """
-Sustainable open source community
+Sustainable open source research
 """
 header = "header.jpg"
 +++

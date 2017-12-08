@@ -8,13 +8,14 @@ selfLink = "syna"
 align = "right"
 
 title = "Syna"
-subtitle = "Full featured open source theme"
+subtitle = "Highly modular open source theme"
 
 image = "syna.svg"
 
 description = """
 * Single to multi page layouts
 * Based on Bootstrap 4
+* Fontawesome 5
 * Multitude of fragments including contact form, embed media, column/row items and more
 * Fully responsive
 * Customizable with your own colors and javascript

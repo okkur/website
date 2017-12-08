@@ -1,0 +1,23 @@
++++
+fragment = "item"
+date = "2017-10-04"
+lastmod = "2017-10-04"
+weight = 350
+background = "dark"
+selfLink = "regren"
+align = "right"
+
+title = "Regren"
+subtitle = "Docker registry cleaner"
+
+icon = "fa-trash"
+
+description = """
+* Automate your registry garbage collection
+"""
+
+[[buttons]]
+  text = "Repository"
+  link = "https://github.com/okkur/regren"
+  color = "outline-secondary"
++++

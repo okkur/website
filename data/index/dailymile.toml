@@ -1,0 +1,25 @@
++++
+fragment = "item"
+date = "2017-10-04"
+lastmod = "2017-10-04"
+weight = 350
+background = "light"
+selfLink = "dailymile"
+align = "left"
+
+title = "Dailymile"
+subtitle = "Daily/Weekly/Monthly milestone generator for Gitlab"
+
+icon = "fa-calendar-alt"
+
+description = """
+* Automate your sprint milestone generation
+* Daily ToDo milestones within your Gitlab Projects
+* Go based with no external dependencies
+"""
+
+[[buttons]]
+  text = "Repository"
+  link = "https://github.com/okkur/dailymile"
+  color = "outline-secondary"
++++
