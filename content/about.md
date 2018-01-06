@@ -22,6 +22,10 @@ It researches and innovates on ideas from the community and SeeTheProgress UG.
 
 The community is supported by SeeTheProgress UG.
 
+Why Okkur?
+"Okkur" is the Icelandic word for "us".
+"Us" is can also be translated to "oss" in Swedish/Norwegian.
+
 ## Disclaimer
 
 *Contents of the website*
