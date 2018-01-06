@@ -10,11 +10,11 @@ DefaultContentLanguage = "en"
 [params]
   name = "Okkur Labs"
   description = "Sustainable open source research"
-  image = "header.jpg"
+  image = "header-min.jpg"
 
   # Branding options
   [params.branding]
-    #logoNavigation = "logo.svg"
+    logoNavigation = "logo.svg"
     textNavigation = "Okkur Labs"
 
   [params.style]
