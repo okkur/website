@@ -7,7 +7,7 @@ background = "light"
 selfLink = "txtdirect"
 align = "left"
 
-title = "txtdirect"
+title = "TXTDirect"
 subtitle = "DNS TXT-record based redirects"
 
 image = "txtdirect.svg"
