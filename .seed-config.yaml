@@ -31,6 +31,8 @@ cla:
 maintainers:
   - name: "Michael Grosser"
     nick: "stp-ip"
+  - name: "Antoine Martin"
+    nick: "alarsyo"
 
 repo:
   link: "https://github.com/okkur/website/"
