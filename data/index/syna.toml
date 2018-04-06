@@ -8,7 +8,7 @@ selfLink = "syna"
 align = "right"
 
 title = "Syna"
-subtitle = "Highly modular open source theme"
+subtitle = "Highly customizable open source theme for Hugo based static websites"
 
 image = "syna.svg"
 
@@ -18,7 +18,7 @@ description = """
 * Fontawesome 5
 * Multitude of fragments including contact form, embed media, column/row items and more
 * Fully responsive
-* Customizable with your own colors and javascript
+* Customizable with your own fragments, colors and more
 """
 
 [[buttons]]

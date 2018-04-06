@@ -8,14 +8,14 @@ selfLink = "gopkg"
 align = "right"
 
 title = "Gopkg"
-subtitle = "DNS TXT-record based Go package vanity URLs"
+subtitle = "Go package vanity imports based on DNS TXT-records"
 
 image = "gopkg.svg"
 
 description = """
 * Auto TLS
 * Convenient and minimalistic
-* DNS TXT-record base to keep control of your data
+* Keep control of your data with your own DNS TXT-records
 * Open source
 * Transparent vanity redirects
 * No vendor lock-in

@@ -14,7 +14,7 @@ image = "txtdirect.svg"
 
 description = """
 * Convenient and minimalistic
-* DNS TXT-record base to keep control of your data
+* Keep control of your data with your own DNS TXT-records
 * Open source
 * Transparent redirects
 * No vendor lock-in
