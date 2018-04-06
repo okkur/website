@@ -39,9 +39,6 @@ repo:
 badges:
   - image: "https://img.shields.io/badge/state-stable-green.svg"
     alt: "state"
-  - image: "https://img.shields.io/okkur/release/txtdirect/website.svg"
-    link: "https://github.com/okkur/website/releases"
-    alt: "release"
   - image: "https://img.shields.io/github/license/okkur/website.svg"
     link: "LICENSE"
     alt: "license"

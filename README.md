@@ -2,7 +2,7 @@
 
 Sustainable. Open Source. Community.
 
- [![state](https://img.shields.io/badge/state-stable-green.svg)]() [![release](https://img.shields.io/okkur/release/txtdirect/website.svg)](https://github.com/okkur/website/releases) [![license](https://img.shields.io/github/license/okkur/website.svg)](LICENSE)
+ [![state](https://img.shields.io/badge/state-stable-green.svg)]() [![license](https://img.shields.io/github/license/okkur/website.svg)](LICENSE)
 
 
 
