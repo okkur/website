@@ -25,8 +25,6 @@ Best place to start is our [contribution guide](/CONTRIBUTING.md).
 *Documentation/examples are licensed under [Creative Commons BY-NC-SA 4.0](/docs/LICENSE).*  
 *Illustrations, trademarks and third-party resources are owned by their respective party and are subject to different licensing.*
 
-*The TXTDIRECT logo was created by [Florin Luca](https://99designs.com/profiles/florinluca)*
-
 ---
 
 Copyright 2018 - The Okkur Labs Website Authors
