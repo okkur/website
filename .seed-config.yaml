@@ -1,8 +1,8 @@
 project:
   name: "Okkur Labs Website"
   state: "stable"
-  image: "/blob/master/logo.svg"
-  website: "okkur.io"
+  image: "/master/static/logo.svg"
+  website: "https://okkur.io"
   oneLiner: "Sustainable. Open Source. Community."
   description: |
     Okkur Labs website repository for the static website hosted at https://about.okkur.io.  
