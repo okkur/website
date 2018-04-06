@@ -1,4 +1,4 @@
-<a href='https://okkur.io'><img src='/master/static/logo.svg' width='500'/></a>
+<a href='https://okkur.io'><img src='https://github.com/okkur/website/blob/master/static/images/logo.svg' width='500'/></a>
 
 Sustainable. Open Source. Community.
 
