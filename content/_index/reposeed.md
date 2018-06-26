@@ -1,10 +1,8 @@
 +++
 fragment = "item"
-date = "2017-10-04"
-lastmod = "2017-10-04"
+date = "2018-06-26"
 weight = 330
 background = "light"
-selfLink = "reposeed"
 align = "left"
 
 title = "Reposeed"
@@ -12,16 +10,15 @@ subtitle = "Extensive repository base files up and running in an instant"
 
 image = "reposeed.svg"
 
-description = """
+[[buttons]]
+  text = "Repository"
+  url = "https://github.com/okkur/reposeed"
+  color = "outline-secondary"
+
++++
+
 * Licensing (Apache2, MIT, Creative Commons)
 * Support, Contribution and Security guideslines
 * Contributor License Agreement (CLA)
 * Code of Conduct (CoC)
 * Maintainer documentation including license headers
-"""
-
-[[buttons]]
-  text = "Repository"
-  link = "https://github.com/okkur/reposeed"
-  color = "outline-secondary"
-+++

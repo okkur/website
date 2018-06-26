@@ -1,23 +1,20 @@
 +++
 fragment = "item"
-date = "2017-10-04"
-lastmod = "2017-10-04"
+date = "2018-06-26"
 weight = 360
 background = "dark"
-selfLink = "regren"
 align = "right"
 
 title = "Regren"
 subtitle = "Docker registry cleaner"
 
-icon = "fa-trash"
-
-description = """
-* Automate your registry garbage collection
-"""
+icon = "fas fa-trash"
 
 [[buttons]]
   text = "Repository"
-  link = "https://github.com/okkur/regren"
+  url = "https://github.com/okkur/regren"
   color = "outline-secondary"
+
 +++
+
+* Automate your registry garbage collection

@@ -3,25 +3,25 @@ fragment = "logos"
 date = "2017-10-23"
 lastmod = "2017-10-23"
 weight = 500
-selfLink = "project-overview"
 
 title = "Projects"
 
 [[logos]]
   name = "TXTDirect"
   weight = 10
-  logo = "txtdirect.svg"
-  link = "https://about.txtdirect.org"
+  image = "txtdirect.svg"
+  url = "https://about.txtdirect.org"
 
 [[logos]]
   name = "Reposeed"
   weight = 20
-  logo = "reposeed.svg"
-  link = "https://github.com/okkur/reposeed"
+  image = "reposeed.svg"
+  url = "https://github.com/okkur/reposeed"
 
 [[logos]]
   name = "Syna"
   weight = 30
-  logo = "syna.svg"
-  link = "https://github.com/okkur/syna"
+  image = "syna.svg"
+  url = "https://github.com/okkur/syna"
+
 +++
