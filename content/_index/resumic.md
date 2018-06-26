@@ -2,8 +2,8 @@
 fragment = "item"
 date = "2018-06-26"
 weight = 340
-background = "dark"
-align = "right"
+background = "light"
+align = "left"
 
 title = "Resumic"
 subtitle = "Easy to use modern and machine readable resume/CV tooling"

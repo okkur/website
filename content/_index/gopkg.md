@@ -2,7 +2,7 @@
 fragment = "item"
 date = "2018-06-26"
 weight = 311
-background = "white"
+background = "dark"
 align = "right"
 
 title = "Gopkg"

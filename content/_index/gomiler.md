@@ -2,8 +2,8 @@
 fragment = "item"
 date = "2018-06-26"
 weight = 350
-background = "light"
-align = "left"
+background = "dark"
+align = "right"
 
 title = "GoMiler"
 subtitle = "Milestone generation for various platforms including GitLab and GitHub"

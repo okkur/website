@@ -2,8 +2,8 @@
 fragment = "item"
 date = "2018-06-26"
 weight = 360
-background = "dark"
-align = "right"
+background = "light"
+align = "left"
 
 title = "Regren"
 subtitle = "Docker registry cleaner"
