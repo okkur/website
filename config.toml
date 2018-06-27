@@ -16,6 +16,9 @@ DefaultContentLanguage = "en"
   name = "Okkur Labs"
   description = "Sustainable open source research"
 
+  [params.style]
+    #background = "secondary"
+
   # Theme customizations
   # Assets relative to 'static/'
   [params.custom]
