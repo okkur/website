@@ -12,7 +12,7 @@ image = "syna.svg"
 
 [[buttons]]
   text = "Try Demo"
-  url = "https://syna-demo.okkur.io"
+  url = "https://syna.okkur.io/demo/"
   color = "secondary"
 
 [[buttons]]
