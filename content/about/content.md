@@ -1,5 +1,5 @@
 +++
-fragment = "content-split"
+fragment = "content"
 weight = "100"
 
 title = ""
