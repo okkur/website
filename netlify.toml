@@ -3,17 +3,48 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.42.1"
+  HUGO_VERSION = "0.46"
   HUGO_ENV = "production"
 
 [context.deploy-preview]
-  command = "hugo -b $DEPLOY_PRIME_URL"
+  command = """
+# Site repository to be injected
+cd ../;
+git clone https://github.com/okkur/syna/;
+
+# Checkout current release branch
+cd syna;
+git checkout restructure;
+cd ../;
+
+# Prepare directories
+mkdir -p repo/content/syna;
+mkdir -p repo/content/syna/_global/;
+mkdir -p repo/layouts/partials/fragments;
+
+# Fail build, when static files would be overwritten TODO: check exit is actually triggered
+cd syna/exampleSite;
+find static/ -name '*' -type f -print0 | xargs -0 -l1 -I '{}' sh -c "test -f ../../repo/{} && exit 1"
+cd ../../;
+
+# Copy content/asset files
+cd syna/exampleSite;
+cp -R content/_index.md ../../repo/content/syna/;
+cp -R content/_index/ ../../repo/content/syna/;
+cp -R content/_global/footer.md ../../repo/content/syna/_global/;
+cp -R content/_global/index.md ../../repo/content/syna/_global/;
+cp -R content/fragments/ ../../repo/content/syna/;
+cp -R layouts/partials/fragments/ ../../repo/layouts/partials/;
+cp -R static/images/ ../../repo/static/images/;
+cd ../../;
+
+# Fix relative links to use subdirectory TODO: Better solution
+find repo/content/syna/ -name '*' -type f -exec sed -i -e 's!url = "/!url = "/syna/!g' -- {} +;
+
+# Build site
+cd repo;
+hugo -b $DEPLOY_PRIME_URL
+"""
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.42.1"
-
-[context.branch-deploy]
-  command = "hugo -b $DEPLOY_PRIME_URL"
-
-[context.branch-deploy.environment]
-HUGO_VERSION = "0.42.1"
+  HUGO_VERSION = "0.46"
