@@ -14,7 +14,6 @@ icon = "fas fa-trash"
   text = "Repository"
   url = "https://github.com/okkur/regren"
   color = "outline-secondary"
-
 +++
 
 * Automate your registry garbage collection

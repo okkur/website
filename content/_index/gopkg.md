@@ -8,7 +8,8 @@ align = "right"
 title = "Gopkg"
 subtitle = "Go package vanity imports based on DNS TXT-records"
 
-image = "gopkg.svg"
+[asset]
+  image = "gopkg.svg"
 
 [[buttons]]
   text = "Project Website"
@@ -19,7 +20,6 @@ image = "gopkg.svg"
   text = "Repository"
   url = "https://github.com/txtdirect/txtdirect"
   color = "outline-secondary"
-
 +++
 
 * Auto TLS

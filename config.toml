@@ -49,6 +49,6 @@ DefaultContentLanguage = "en"
   weight = 30
 
 [[menu.copyright_footer]]
-  url = "/about"
-  name = "About Us"
+  url = "/imprint"
+  name = "Imprint"
   weight = 10

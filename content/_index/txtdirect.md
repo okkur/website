@@ -8,7 +8,8 @@ align = "left"
 title = "TXTDirect"
 subtitle = "DNS TXT-record based redirects"
 
-image = "txtdirect.svg"
+[asset]
+  image = "txtdirect.svg"
 
 [[buttons]]
   text = "Project Website"
@@ -19,7 +20,6 @@ image = "txtdirect.svg"
   text = "Repository"
   url = "https://github.com/txtdirect/txtdirect"
   color = "outline-secondary"
-
 +++
 
 * Convenient and minimalistic

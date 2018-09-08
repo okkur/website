@@ -14,7 +14,6 @@ icon = "fas fa-id-card"
   text = "Repository"
   url = "https://github.com/resumic/schema"
   color = "outline-secondary"
-
 +++
 
 * Standardized data schema for your modern and machine readable resume/CV based on JSONschema

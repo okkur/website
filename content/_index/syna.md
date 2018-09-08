@@ -8,7 +8,8 @@ align = "right"
 title = "Syna"
 subtitle = "Highly customizable open source theme for Hugo based static websites"
 
-image = "syna.svg"
+[asset]
+  image = "syna.svg"
 
 [[buttons]]
   text = "Try Demo"

@@ -8,13 +8,13 @@ align = "left"
 title = "Reposeed"
 subtitle = "Extensive repository base files up and running in an instant"
 
-image = "reposeed.svg"
+[asset]
+  image = "reposeed.svg"
 
 [[buttons]]
   text = "Repository"
   url = "https://github.com/okkur/reposeed"
   color = "outline-secondary"
-
 +++
 
 * Licensing (Apache2, MIT, Creative Commons)

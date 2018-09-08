@@ -14,7 +14,6 @@ icon = "fas fa-calendar-alt"
   text = "Repository"
   url = "https://github.com/okkur/gomiler"
   color = "outline-secondary"
-
 +++
 
 * Automate your sprint milestone generation
