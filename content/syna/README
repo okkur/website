@@ -1,0 +1,8 @@
+# Copy from syna/exampleSiteopy
+This directory is a manual copy from github.com/okkur/syna/exampleSite and should correspond to the latest release, which is also used in themes/syna.
+
+Changes needed:
+* Copy exampleSite/fragments/ -> syna/fragments
+* Copy exampleSite/dev/blog/ -> syna/example/blog
+* Change section for lists (syna/_index + syna/fragments/list) to `syna/example/blog`
+* Change link in syna/_index/hero/index.md to `syna/fragments`

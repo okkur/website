@@ -1,7 +1,7 @@
 +++
 fragment = "item"
 date = "2018-06-26"
-weight = 330
+weight = 315
 background = "dark"
 align = "right"
 
@@ -12,8 +12,13 @@ subtitle = "Highly customizable open source theme for Hugo based static websites
   image = "syna.svg"
 
 [[buttons]]
-  text = "Try Demo"
-  url = "https://syna-demo.okkur.io"
+  text = "Try now"
+  url = "syna"
+  color = "primary"
+
+[[buttons]]
+  text = "Learn more"
+  url = "syna"
   color = "secondary"
 
 [[buttons]]
