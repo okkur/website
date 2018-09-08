@@ -12,13 +12,13 @@ subtitle = "DNS TXT-record based redirects"
   image = "txtdirect.svg"
 
 [[buttons]]
-  text = "Learn more"
-  url = "https://about.txtdirect.org"
+  text = "Try now"
+  url = "https://about.txtdirect.org/#hosted"
   color = "primary"
 
 [[buttons]]
-  text = "Hosted version"
-  url = "https://about.txtdirect.org/#hosted"
+  text = "Learn more"
+  url = "https://about.txtdirect.org"
   color = "secondary"
 
 [[buttons]]

@@ -12,7 +12,7 @@ subtitle = "Go package vanity imports based on DNS TXT-records"
   image = "gopkg.svg"
 
 [[buttons]]
-  text = "Project Website"
+  text = "Learn more"
   url = "https://about.txtdirect.org/gopkg"
   color = "secondary"
 
