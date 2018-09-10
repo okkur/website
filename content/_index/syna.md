@@ -13,12 +13,12 @@ subtitle = "Highly customizable open source theme for Hugo based static websites
 
 [[buttons]]
   text = "Try now"
-  url = "syna"
+  url = "/syna"
   color = "primary"
 
 [[buttons]]
   text = "Learn more"
-  url = "syna"
+  url = "/syna"
   color = "secondary"
 
 [[buttons]]
