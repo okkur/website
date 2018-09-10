@@ -6,6 +6,9 @@ theme = "syna"
 version = "0.3.0"
 enableGitInfo = true
 
+[outputs]
+  home = ["HTML", "JSON"]
+
 [frontmatter]
 date = ["date", "lastmod"]
 lastmod = ["lastmod", ":git", "date"]
