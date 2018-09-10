@@ -44,7 +44,7 @@ DefaultContentLanguage = "en"
   weight = 20
 
 [[menu.main]]
-  url = "#syna"
+  url = "/syna"
   name = "Syna"
   weight = 30
 
