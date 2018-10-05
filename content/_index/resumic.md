@@ -8,7 +8,8 @@ align = "left"
 title = "Resumic"
 subtitle = "Easy to use modern and machine readable resume/CV tooling"
 
-icon = "fas fa-id-card"
+[asset]
+  icon = "fas fa-id-card"
 
 [[buttons]]
   text = "Repository"

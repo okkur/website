@@ -1,7 +1,8 @@
 +++
 fragment = "list"
-weight = 100
+weight = 250
 
+background = "light"
 count = 1000
 section = "syna/fragments"
 #summary = false # Default value is true

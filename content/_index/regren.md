@@ -8,7 +8,8 @@ align = "left"
 title = "Regren"
 subtitle = "Docker registry cleaner"
 
-icon = "fas fa-trash"
+[asset]
+  icon = "fas fa-trash"
 
 [[buttons]]
   text = "Repository"
