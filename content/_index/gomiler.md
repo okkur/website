@@ -8,7 +8,8 @@ align = "right"
 title = "GoMiler"
 subtitle = "Milestone generation for various platforms including GitLab and GitHub"
 
-icon = "fas fa-calendar-alt"
+[asset]
+  icon = "fas fa-calendar-alt"
 
 [[buttons]]
   text = "Repository"
