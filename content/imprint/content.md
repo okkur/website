@@ -1,5 +1,6 @@
 +++
-# copy from https://about.seetheprogress.com/imprint/ and its respective content file
+# copy from https://about.nzt.ventures/imprint/ and its respective content file
+# Change "Website provided by" name + address + court + register number
 fragment = "content"
 weight = "100"
 
@@ -11,20 +12,16 @@ subtitle = ""
   content = """
 *Information in accordance with section 5 TMG*
 
-**Website provided by:**
-SeeTheProgress UG (limited)  
-
-*German:*  
-SeeTheProgress UG (haftungsbeschränkt)  
+**Website provided by:**  
+SeeTheProgress UG (haftungsbeschränkt)
 
 Hauptstrasse 15  
 85716 Unterschleissheim  
 Germany
 
-[about.seetheprogress.com](https://about.seetheprogress.com)
-
-**Provider represented by:**  
-Michael Grosser
+**Commercial Register:**
+District Court Munich
+HRB 185421
 """
 +++
 
@@ -68,14 +65,3 @@ To be able to take a data lock into account at any time, it is necessary to stor
 
 ## Changes to our Privacy Policy
 In order to ensure that our data protection declaration always complies with current legal requirements, we reserve the right to make changes at any time. This also applies if the data protection declaration has to be amended due to new or revised services, for example new services. The new data protection declaration will then take effect the next time you visit our website.
-
-### Further provider details
-**VAT identification number**  
-*In accordance with §27a of the UStG (German Value Added Tax Act):*  
-DE 272583521
-
-**Commercial register court:**  
-Local Court Munich
-
-**Commercial register number:**  
-HRB 185421
