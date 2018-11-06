@@ -21,8 +21,8 @@ Germany
 
 https://about.okkur.io
 
-**Commercial Register:**
-District Court Munich
+**Commercial Register:**  
+District Court Munich  
 HRB 244484
 """
 +++
