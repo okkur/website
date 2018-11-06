@@ -19,6 +19,8 @@ Hauptstrasse 15
 85716 Unterschleissheim  
 Germany
 
+https://about.okkur.io
+
 **Commercial Register:**
 District Court Munich
 HRB 244484
