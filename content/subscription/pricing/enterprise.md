@@ -17,7 +17,7 @@ button_url = "https://about.rekkur.com/?event=contact:update&message=Okkur Resea
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Exposure** Shown yourself as sponsor"
+  text = "**Exposure** Show yourself as sponsor"
   icon = "fas fa-check"
 
 [[features]]

@@ -18,6 +18,6 @@ button_text = "Subscribe to Premium"
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Exposure** Shown yourself as sponsor"
+  text = "**Exposure** Show yourself as sponsor"
   icon = "fas fa-check"
 +++
