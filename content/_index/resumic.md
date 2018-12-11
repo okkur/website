@@ -5,8 +5,8 @@ weight = 340
 background = "light"
 align = "left"
 
-title = "Resumic"
-subtitle = "Easy to use modern and machine readable resume/CV tooling"
+title = "[WIP] Resumic"
+subtitle = "Your Resume. Your Data."
 
 [asset]
   icon = "fas fa-id-card"
@@ -17,8 +17,8 @@ subtitle = "Easy to use modern and machine readable resume/CV tooling"
   color = "outline-secondary"
 +++
 
-* Standardized data schema for your modern and machine readable resume/CV based on JSONschema
-* Standardized
+* Standardized data schema for your resume/CV based on JSONschema
+* Modern and machine readable
 * Huge ecosystem for theming
 * Easy and professional resume generation
 * Versioned and easily filtered resume data

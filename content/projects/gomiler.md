@@ -6,7 +6,7 @@ background = "dark"
 align = "right"
 
 title = "GoMiler"
-subtitle = "Milestone generation for various platforms including GitLab and GitHub"
+subtitle = "Milestone generation made easy"
 
 [asset]
   icon = "fas fa-calendar-alt"
@@ -19,5 +19,4 @@ subtitle = "Milestone generation for various platforms including GitLab and GitH
 
 * Automate your sprint milestone generation
 * Daily ToDo milestones within your projects
-* Based on Go with no external dependencies
-* Simple binary easy to deploy
+* Simple binary easily deployed

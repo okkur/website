@@ -42,16 +42,27 @@ DefaultContentLanguage = "en"
   weight = 10
 
 [[menu.main]]
-  url = "#reposeed"
-  name = "Reposeed"
+  url = "/syna"
+  name = "Syna"
   weight = 20
 
 [[menu.main]]
-  url = "/syna"
-  name = "Syna"
+  url = "#resumic"
+  name = "Resumic"
   weight = 30
+
+[[menu.main]]
+  url = "/subscription/"
+  name = "Subscription"
+  weight = 40
+
+
+[[menu.copyright_footer]]
+  url = "/projects/"
+  name = "Further projects"
+  weight = 10
 
 [[menu.copyright_footer]]
   url = "/imprint"
   name = "Imprint"
-  weight = 10
+  weight = 20

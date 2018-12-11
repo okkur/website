@@ -1,20 +1,15 @@
 +++
 fragment = "item"
 date = "2018-06-26"
-weight = 330
+weight = 310
 background = "dark"
 align = "right"
 
 title = "Gopkg"
-subtitle = "Go package vanity imports based on DNS TXT-records"
+subtitle = "Full control of your package imports"
 
 [asset]
   image = "gopkg.svg"
-
-[[buttons]]
-  text = "Learn more"
-  url = "https://about.txtdirect.org/gopkg"
-  color = "secondary"
 
 [[buttons]]
   text = "Repository"
@@ -22,9 +17,8 @@ subtitle = "Go package vanity imports based on DNS TXT-records"
   color = "outline-secondary"
 +++
 
-* Auto TLS
-* Convenient and minimalistic
 * Keep control of your data with your own DNS TXT-records
+* Update your source control and versions with a consistent entrypoint
+* Brand code imports
 * Open source
-* Transparent vanity redirects
 * No vendor lock-in

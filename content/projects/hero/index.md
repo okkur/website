@@ -2,11 +2,10 @@
 fragment = "hero"
 date = "2016-09-07"
 weight = 100
-background = "dark"
+background = "light"
 particles = false
 
-title = "Okkur Labs"
-subtitle = "Sustainable Open Source"
+subtitle = "Further projects"
 
 [header]
   image = "header.jpg"

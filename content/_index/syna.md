@@ -6,7 +6,7 @@ background = "dark"
 align = "right"
 
 title = "Syna"
-subtitle = "Highly customizable open source theme for Hugo based static websites"
+subtitle = "Highly modular static site theme"
 
 [asset]
   image = "syna.svg"
@@ -27,9 +27,8 @@ subtitle = "Highly customizable open source theme for Hugo based static websites
   color = "outline-secondary"
 +++
 
-* Single to multi page layouts
-* Based on Bootstrap 4
-* Fontawesome 5
-* Multitude of fragments including contact form, embed media, column/row items and more
+* Modular setup with a multitude of included fragments
+* Fast static site via Hugo site generator
+* Open Source
 * Fully responsive
-* Customizable with your own fragments, colors and more
+* Customizable by injecting react code or add your own fragments

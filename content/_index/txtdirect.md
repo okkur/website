@@ -6,19 +6,19 @@ background = "light"
 align = "left"
 
 title = "TXTDirect"
-subtitle = "DNS TXT-record based redirects"
+subtitle = "DNS TXT record based redirects"
 
 [asset]
   image = "txtdirect.svg"
 
 [[buttons]]
   text = "Try now"
-  url = "https://about.txtdirect.org/#hosted"
+  url = "https://about.txtdirect.org/hosted/"
   color = "primary"
 
 [[buttons]]
   text = "Learn more"
-  url = "https://about.txtdirect.org"
+  url = "https://about.txtdirect.org/docs/"
   color = "secondary"
 
 [[buttons]]
@@ -27,8 +27,8 @@ subtitle = "DNS TXT-record based redirects"
   color = "outline-secondary"
 +++
 
-* Convenient and minimalistic
 * Keep control of your data with your own DNS TXT-records
+* Control your entrypoints
 * Open source
 * Transparent redirects
 * No vendor lock-in

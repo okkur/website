@@ -5,7 +5,7 @@ weight = 360
 background = "light"
 align = "left"
 
-title = "Regren"
+title = "[Archive] Regren"
 subtitle = "Docker registry cleaner"
 
 [asset]

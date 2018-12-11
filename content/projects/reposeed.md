@@ -5,8 +5,8 @@ weight = 320
 background = "light"
 align = "left"
 
-title = "Reposeed"
-subtitle = "Extensive repository base files up and running in an instant"
+title = "[WIP] Reposeed"
+subtitle = "Base files for your project"
 
 [asset]
   image = "reposeed.svg"
