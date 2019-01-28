@@ -26,8 +26,7 @@ DefaultContentLanguage = "en"
   # Assets relative to 'static/'
   [params.custom]
     favicon = "favicon.ico"
-    favicon_ico_sizes = "16x16 32x32"
-    favicon_png = "favicon.png"
+    favicon_ico_sizes = "16x16 32x32 48x48"
     favicon_svg = "favicon.svg"
 
   # Piwik tracking
