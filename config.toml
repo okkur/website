@@ -5,6 +5,7 @@ title = "Sustainable open source research"
 theme = "syna"
 version = "0.3.0"
 enableGitInfo = true
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [outputs]
   home = ["HTML", "JSON"]
