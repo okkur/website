@@ -16,4 +16,4 @@ product = "Okkur Research Subscription"
   label = "Your email address"
 +++
 
-Secure Payment by Stripe
+*Payment secured and provided by Stripe*
