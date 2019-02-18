@@ -6,7 +6,7 @@ title = "Enterprise plan"
 price = "Custom"
 
 button_text = "Contact us"
-button_url = "https://about.rekkur.com/?event=contact:update&message=Okkur Research Enterprise plan%0ALet us know what you need:%0A"
+button_url = "https://about.rekkur.com/?e=P2V2ZW50PWNvbnRhY3Q6dXBkYXRlJm1lc3NhZ2U9LU9ra3VyIFJlc2VhcmNoIEVudGVycHJpc2UgcGxhbi0KTGV0IHVzIGtub3cgd2hhdCB5b3UgbmVlZDoK"
 
 [[features]]
   text = "**Basic** Access to all projects"

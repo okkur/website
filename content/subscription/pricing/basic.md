@@ -3,8 +3,7 @@ weight = 10
 
 title = "Basic plan"
 
-price = "23000"
-price_text = "$230/y"
+price = "$230/year"
 currency = "usd"
 button_text = "Subscribe to basic"
 
