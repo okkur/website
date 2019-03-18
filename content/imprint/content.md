@@ -19,7 +19,7 @@ Hauptstrasse 15
 85716 Unterschleissheim  
 Germany
 
-https://about.okkur.io
+https://about.okkur.org
 
 **Commercial Register:**  
 District Court Munich  
