@@ -2,7 +2,7 @@
 fragment = "hero"
 date = "2016-09-07"
 weight = 100
-background = "light"
+background = "dark"
 particles = false
 
 subtitle = "Further projects"
@@ -11,6 +11,6 @@ subtitle = "Further projects"
   image = "header.jpg"
 
 [asset]
-  image = "logo.svg"
+  image = "logo-white.svg"
   width = "500px" # optional - will default to image width
 +++
