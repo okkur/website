@@ -18,7 +18,7 @@ subtitle = "Base files for your project"
 +++
 
 * Licensing (Apache2, MIT, Creative Commons)
-* Support, Contribution and Security guideslines
+* Support, Contribution and Security guidelines
 * Contributor License Agreement (CLA)
 * Code of Conduct (CoC)
 * Maintainer documentation including license headers
