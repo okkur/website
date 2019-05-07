@@ -1,9 +1,9 @@
 # Site settings
-baseurl = "https://about.okkur.io/"
+baseurl = "https://about.okkur.org/"
 languageCode = "en-us"
 title = "Sustainable open source research"
 theme = "syna"
-version = "0.3.0"
+version = "0.4.0"
 enableGitInfo = true
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 

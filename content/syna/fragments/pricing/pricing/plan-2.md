@@ -5,10 +5,11 @@ title = "Premium plan"
 subtitle = "starting at"
 
 price = "$9.99/mo"
+currency = "usd"
 highlight = true
 
 button_text = "Get started"
-button_url = "#"
+button_url = "/fragments/stripe?event=pricing:change&product=Starting%20plan&price=$9.99/mo&currency=usd"
 
 [[features]]
   text = "**Basic** feature"
