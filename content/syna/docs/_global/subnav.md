@@ -5,4 +5,4 @@ weight = 10
 background = "light"
 +++
 
-[Documentation](syna/docs) | [Fragments](syna/fragments)
+[Documentation](/syna/docs) | [Fragments](/syna/fragments)
