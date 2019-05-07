@@ -2,11 +2,11 @@ project:
   name: "Okkur Labs Website"
   state: "stable"
   image: "https://github.com/okkur/website/blob/master/static/images/logo.svg"
-  website: "https://okkur.io"
+  website: "https://okkur.org"
   oneLiner: "Sustainable. Open Source. Community."
   description: |
-    Okkur Labs website repository for the static website hosted at https://about.okkur.io.  
-    Built with [Hugo](https://gohugo.io) and [Syna](https://github.com/okkur/syna).
+    Okkur Labs website repository for the static website hosted at https://about.okkur.org.  
+    Built with [Hugo](https://gohugo.io) and [Syna](https://syna.okkur.org).
   version: "v0.1.0"
   mainLicense: "CCByNcSa"
 
@@ -19,20 +19,19 @@ contributionLinks:
   starterIssues: "https://github.com/okkur/website/labels/starter%20issue"
 
 emails:
-  security: "security@okkur.io"
-  coc: "coc@okkur.io"
+  security: "security@okkur.org"
+  coc: "coc@okkur.org"
 
 copyright:
   year: "2018"
 
 cla:
-  copyrightHolder: "Michael Grosser"
+  copyrightHolder: "nzt.ventures GmbH"
+  mail: "legal@nzt.ventures"
 
 maintainers:
   - name: "Michael Grosser"
     nick: "stp-ip"
-  - name: "Antoine Martin"
-    nick: "alarsyo"
 
 repo:
   link: "https://github.com/okkur/website/"
@@ -44,3 +43,6 @@ badges:
   - image: "https://img.shields.io/github/license/okkur/website.svg"
     link: "LICENSE"
     alt: "license"
+
+reposeed:
+  configVersion: "v1"

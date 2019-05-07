@@ -1,4 +1,4 @@
-<a href='https://okkur.io'><img src='https://github.com/okkur/website/blob/master/static/images/logo.svg' width='500'/></a>
+<a href='https://okkur.org'><img src='https://github.com/okkur/website/blob/master/static/images/logo.svg' width='500'/></a>
 
 Sustainable. Open Source. Community.
 
@@ -7,8 +7,8 @@ Sustainable. Open Source. Community.
 
 
 # Okkur Labs Website
-Okkur Labs website repository for the static website hosted at https://about.okkur.io.  
-Built with [Hugo](https://gohugo.io) and [Syna](https://github.com/okkur/syna).
+Okkur Labs website repository for the static website hosted at https://about.okkur.org.  
+Built with [Hugo](https://gohugo.io) and [Syna](https://syna.okkur.org).
 
 ## Using Okkur Labs Website
 
