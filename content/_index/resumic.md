@@ -3,13 +3,13 @@ fragment = "item"
 date = "2018-06-26"
 weight = 340
 background = "light"
-align = "left"
+align = "right"
 
-title = "[WIP] Resumic"
+title = "Resumic"
 subtitle = "Your Resume. Your Data."
 
 [asset]
-  icon = "fas fa-id-card"
+  image = "resumic.svg"
 
 [[buttons]]
   text = "Repository"

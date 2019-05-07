@@ -5,7 +5,7 @@ weight = 320
 background = "light"
 align = "left"
 
-title = "[WIP] Reposeed"
+title = "Reposeed"
 subtitle = "Base files for your project"
 
 [asset]
