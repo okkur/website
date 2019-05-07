@@ -9,7 +9,7 @@ title = "Resumic"
 subtitle = "Your Resume. Your Data."
 
 [asset]
-  image = "resumic.svg"
+  image = "resumic-white.svg"
 
 [[buttons]]
   text = "Repository"
