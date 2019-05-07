@@ -2,7 +2,7 @@
 fragment = "item"
 date = "2018-06-26"
 weight = 340
-background = "light"
+background = "dark"
 align = "right"
 
 title = "Resumic"
