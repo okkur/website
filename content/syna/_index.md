@@ -1,3 +1,3 @@
 +++
-title = "Fragments showcase"
+title = "Syna"
 +++

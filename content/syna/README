@@ -3,8 +3,12 @@ This `fragments` directory is a manual copy from `okkur/syna/exampleSite/content
 
 Changes needed:
 * Copy exampleSite/fragments/ -> syna/fragments
+* Copy exampleSite/docs/ -> syna/docs
 * Copy exampleSite/dev/blog/ -> syna/example/blog
+* Copy exampleSite/_global/nav.md -> syna/_global/syna-nav.md
 * Change links in syna/_index/hero/index.md to `syna/*
 * Change section for list within `syna/fragments/list-md` to `syna/example/blog`
 * Change section for list within `syna/fragments/list-tiled.md` to `syna/example/blog`
+* Change section for list within `syna/docs/_global/index.md` to `syna/docs`
+
 * Change section for list within `syna/blog/_global/sidebar-list.md` to `syna/example/blog`

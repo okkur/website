@@ -18,11 +18,16 @@ title = "Syna Theme"
 
 [[buttons]]
   text = "Features"
-  url = "syna/#features"
+  url = "#features"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
+  text = "Documentation"
+  url = "syna/docs"
+  color = "primary"
+
+[[buttons]]
   text = "Fragments"
-  url = "syna/#fragments"
+  url = "syna/fragments"
   color = "dark"
 +++
