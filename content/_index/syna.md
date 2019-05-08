@@ -13,12 +13,12 @@ subtitle = "Highly modular static site theme"
 
 [[buttons]]
   text = "Try now"
-  url = "/syna"
+  url = "/syna/fragments"
   color = "primary"
 
 [[buttons]]
-  text = "Learn more"
-  url = "/syna"
+  text = "Documentation"
+  url = "/syna/docs"
   color = "secondary"
 
 [[buttons]]

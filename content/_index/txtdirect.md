@@ -17,7 +17,7 @@ subtitle = "DNS TXT record based redirects"
   color = "primary"
 
 [[buttons]]
-  text = "Learn more"
+  text = "Documentation"
   url = "https://about.txtdirect.org/docs/"
   color = "secondary"
 
