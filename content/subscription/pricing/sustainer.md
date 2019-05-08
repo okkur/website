@@ -1,9 +1,9 @@
 +++
 weight = 20
 
-title = "Sustainer plan"
+title = "Sustainer"
 
-price = "$8000/year"
+price = "$8500/year"
 currency = "usd"
 highlight = true
 button_text = "Subscribe to Premium"
@@ -13,7 +13,7 @@ button_text = "Subscribe to Premium"
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Basic** Access to all projects"
+  text = "**Access** Open access to all projects"
   icon = "fas fa-check"
 
 [[features]]

@@ -1,7 +1,7 @@
 +++
 weight = 30
 
-title = "Enterprise plan"
+title = "Enterprise"
 
 price = "Custom"
 
@@ -13,7 +13,7 @@ button_url = "https://about.rekkur.com/?e=P2V2ZW50PWNvbnRhY3Q6dXBkYXRlJm1lc3NhZ2
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Basic** Access to all projects"
+  text = "**Access** Open access to all projects"
   icon = "fas fa-check"
 
 [[features]]

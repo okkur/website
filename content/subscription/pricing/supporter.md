@@ -1,7 +1,7 @@
 +++
 weight = 10
 
-title = "Supporter plan"
+title = "Supporter"
 
 price = "$230/year"
 currency = "usd"
@@ -12,7 +12,7 @@ button_text = "Subscribe to basic"
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Basic** Access to all projects"
+  text = "**Access** Open access to all projects"
   icon = "fas fa-check"
 
 [[features]]
