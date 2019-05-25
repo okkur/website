@@ -1,7 +1,7 @@
 +++
 weight = 10
 
-title = "Supporter"
+title = "Support"
 
 price = "$230/year"
 currency = "usd"

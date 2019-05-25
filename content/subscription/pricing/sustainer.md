@@ -1,7 +1,7 @@
 +++
 weight = 20
 
-title = "Sustainer"
+title = "Sustain"
 
 price = "$8500/year"
 currency = "usd"

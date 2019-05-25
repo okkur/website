@@ -9,7 +9,7 @@ stripe_token = "pk_live_Pe3txTRxD5WM0Mc79KOxTCM3"
 product = "Okkur Research Subscription"
 
 [[prices]]
-  text = "$8000/year"
+  text = "$8500/year"
   currency = "usd"
 
 [email]
