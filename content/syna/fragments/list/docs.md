@@ -71,4 +71,4 @@ If enabled list pages from nested/child sections will be shown.
 
 Shows subsection leaf pages. Like `subsections` variable but will only show normal pages in nested sections.
 
-[Global variables](/docs/global-variables) are documented as well and have been omitted from this page.
+[Global variables]({{< ref "global-variables" >}}) are documented as well and have been omitted from this page.

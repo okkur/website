@@ -16,13 +16,13 @@ The use of a backend is also useful for saving other information from the user s
 
 ### Events
 
-This fragment uses the [Events](/docs/events) api by default.
+This fragment uses the [Events]({{< ref "events" >}}) api by default.
 
 #### Subscribers
 
 ##### pricing:change
 
-This event is published by the [Pricing fragment](/fragments/pricing/#events). It can also be published by [event urls](/docs/events/#event-urls).
+This event is published by the [Pricing fragment]({{< ref "pricing#events" >}}). It can also be published by [event urls]({{< ref "events#event-urls" >}}).
 
 ###### product
 *type: string*
@@ -37,12 +37,12 @@ Payment metadata. This variable is not displayed to the user but will be sent to
 ###### price
 *type: string*
 
-The price that will be charged to the user's account. The value should follow the same rules as [prices.text](#prices-text).
+The price that will be charged to the user's account. The value should follow the same rules as [prices.text]({{< ref "#prices-text" >}}).
 
 ###### currency
 *type: string*
 
-The currency in which the user will be charged. The value should follow the same rules as [prices.currency](#prices-currency).
+The currency in which the user will be charged. The value should follow the same rules as [prices.currency]({{< ref "#prices-currency" >}}).
 
 ### Variables
 
@@ -92,11 +92,11 @@ This variable will create a field and will display either the field itself or a 
 ##### user_input.default
 *type: string*
 
-Default value in the editable price field. The value should follow the same rules as [prices.text](#prices-text).
+Default value in the editable price field. The value should follow the same rules as [prices.text]({{< ref "#prices-text" >}}).
 
 ##### user_input.currencies
 *type: array of strings*
 
-The currency in which the user will be charged. The value should follow the same rules as [prices.currency](#prices-currency).
+The currency in which the user will be charged. The value should follow the same rules as [prices.currency]({{< ref "#prices-currency" >}}).
 
-[Global variables](/docs/global-variables) are documented as well and have been omitted from this page.
+[Global variables]({{< ref "global-variables" >}}) are documented as well and have been omitted from this page.

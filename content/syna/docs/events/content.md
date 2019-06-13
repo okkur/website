@@ -12,7 +12,7 @@ Syna has a built-in communication stream that is mostly used to send messages be
 
 The stream has three main functions, `publish`, `subscribe` and `unsubscribe`. Any event published using the `publish` function can be listened to by `subscribe` function, allowing easy, decoupled and isolated functionalities inside fragments and the whole page.
 
-Events can be triggered either by directly calling the `publish` function on the `window.syna.stream` object or by an special url query which is explained [below](#event-urls).
+Events can be triggered either by directly calling the `publish` function on the `window.syna.stream` object or by an special url query which is explained [below]({{< ref "#event-urls" >}}).
 
 ### `publish` function
 
@@ -52,7 +52,7 @@ In this example, when the page `/fragments/stripe/` is opened, the event stream 
 /fragments/stripe/?e=P2V2ZW50PXByaWNpbmc6Y2hhbmdlJnByb2R1Y3Q9U3RhcnRpbmcgcGxhbiZwcmljZT0kOS45OS9tbyZjdXJyZW5jeT11c2Q=
 ```
 
-*To convert your event to Base64, use an online service such as [base64encode.org](base64encode.org) or you can call `btoa` function in your browser's devtools console. For example: `btoa('?event=...&key=...&key2=...`)*
+*To convert your event to Base64, use an online service such as [base64encode.org](https://base64encode.org) or you can call `btoa` function in your browser's devtools console. For example: `btoa('?event=...&key=...&key2=...`)*
 
 ### `subscribe` function
 

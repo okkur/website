@@ -36,12 +36,12 @@ If set to `true` and `asset` is not set, title will be the same as page title.
 If set to `true`, Particles.js would be added to the page and displayed in the Hero fragment. 
 
 #### header
-*type: [asset object](/docs/global-variables/#asset)*
+*type: [asset object]({{< ref "global-variables#asset" >}})*
 
 Background image of the Hero fragment.
 
 #### asset
-*type: [asset object](/docs/global-variables/#asset)*
+*type: [asset object]({{< ref "global-variables#asset" >}})*
 
 The asset is displayed on the Hero fragment instead of the `title` and can be used to display a logo. 
 
@@ -52,6 +52,6 @@ The asset is displayed on the Hero fragment instead of the `title` and can be us
 
 Call to action buttons displayed after title or asset and subtitle. 
 
-Visit [Buttons fragment page (documentation section)](/fragments/buttons#docs) for documentation on which variables to use.
+Visit [Buttons fragment page (documentation section)]({{< ref "buttons#docs" >}}) for documentation on which variables to use.
 
-[Global variables](/docs/global-variables) are documented as well and have been omitted from this page.
+[Global variables]({{< ref "global-variables" >}}) are documented as well and have been omitted from this page.

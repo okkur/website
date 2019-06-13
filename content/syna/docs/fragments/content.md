@@ -72,7 +72,7 @@ content
 - `_index` directory: For list pages, fragments are located in this directory
     - `index.md`: This file should be a headless page. If not, Hugo would render the page. You can use this file as fragment.
 
-[Global fragments](#global-fragments) such as nav and footer and copyright can be located in the `content/_global` directory.
+[Global fragments]({{< ref "#global-fragments" >}}) such as nav and footer and copyright can be located in the `content/_global` directory.
 Fragments located in this directory would appear in every page unless there's another fragment with the same name closer to the page.
 
 #### Global Fragments
@@ -89,8 +89,8 @@ Each section can have global fragments and if there are multiple fragments with 
 
 ### Built-in fragments
 
-There are several pre-bundled fragments already available in Syna. You can see the full list and their documentation in the [fragments](/fragments) section.
-These fragments make use of some [global variables](/docs/global-variables) along with their own variables which are mentioned in the fragment's page.
+There are several pre-bundled fragments already available in Syna. You can see the full list and their documentation in the [fragments]({{< ref "fragments" >}}) section.
+These fragments make use of some [global variables]({{< ref "global-variables" >}}) along with their own variables which are mentioned in the fragment's page.
 
 ### Custom fragments
 

@@ -14,7 +14,7 @@ variables are as follows:
 *type: string*  
 **Required for every fragment**
 
-Specifies what fragment the current file controls. Checkout [Fragment Implementation](/docs/fragments-implementation/) for more info.
+Specifies what fragment the current file controls. Checkout [Fragment Implementation]({{< ref "fragments-implementation" >}}) for more info.
 
 #### weight
 *type: number*  
@@ -28,7 +28,7 @@ Set the background of the fragment.
 Background also affects the text color of the fragment's content.
 For the background colors of `white`, `light`, `secondary` and `primary` we use Bootstrap's `text_dark` class on content and for other backgrounds, we use `text_light`.
 
-List of all supported colors can be found in [supported colors](/docs/supported-colors) section of the docs.
+List of all supported colors can be found in [supported colors]({{< ref "supported-colors" >}}) section of the docs.
 
 #### title
 *type: string*
@@ -61,10 +61,14 @@ Any fragment that uses this variable type would show either an image or an icon.
 
 The type is introduced to make configuring images and icons same between different fragments.
 
+Some fragments automatically resize images to better fit the layout. For the best result use the documented size of each fragment's asset object.
+*To disable image resizing use assets stored within `static/` as these are excluded from auto resizing.*
+Please make sure to provide the correct size as documented for each fragment's asset object.
+
 ##### asset.image
 *type: string*
 
-Link to an image file. `asset.image` supports the build in [image fallthrough mechanism](/docs/image-fallthrough/).
+Link to an image file. `asset.image` supports the build in [image fallthrough mechanism]({{< ref "image-fallthrough" >}}).
 If `asset.image` is set, `asset.icon` will be ignored.
 
 ##### asset.icon

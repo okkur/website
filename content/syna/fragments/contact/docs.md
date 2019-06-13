@@ -10,7 +10,7 @@ title = "Documentation"
 
 Contact form can be used to receive messages.
 
-Various methods and providers are supported. You can use Netlify's form service, [formspree](formspree.io) or a custom endpoint.
+Various methods and providers are supported. You can use Netlify's form service, [formspree](https://formspree.io) or a custom endpoint.
 
 **NOTE:** If `netlify` variable is set to true then value of `post_url` will be dismissed since Contact fragment can send the data to a single endpoint only.
 
@@ -21,13 +21,13 @@ Contributions for translations are welcome.
 ### Events
 
 <!-- TODO: revise later -->
-This fragment uses the [Events](/docs/events) api by default.
+This fragment uses the [Events]({{< ref "events" >}}) api by default.
 
 #### Subscribers
 
 ##### contact:update
 
-This event is not published by any fragment by default. But you can make use of it through [event urls](/docs/events/#event-urls).
+This event is not published by any fragment by default. But you can make use of it through [event urls]({{< ref "events#event-urls" >}}).
 
 ###### name
 *type: string*
@@ -168,4 +168,4 @@ Any other value for the `name` variable in the `fields.hidden` object will have 
 
 Value of the hidden field. This field will be overridden if `name` is set to `site` or `page`.
 
-[Global variables](/docs/global-variables) are documented as well and have been omitted from this page.
+[Global variables]({{< ref "global-variables" >}}) are documented as well and have been omitted from this page.

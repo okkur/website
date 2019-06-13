@@ -10,14 +10,15 @@ title = "Installation"
 
 ### Adding Syna to your site
 
-You can use Syna by adding it as a submodule to your website repository and pointing the submodule to the latest release.
-This way whenever you want to update the theme you can just pull the updates and checkout to the latest tag.
+You can use Syna by adding it as a submodule to your website repository and pointing the submodule to the latest release branch.
+This way whenever you want to update the theme you can just pull the updates and checkout to the latest changes for this specific release.
+To uprade switch to the latest release branch you want to upgrade to.
 
 ```bash
 git submodule init # If you haven't initialized before
 git submodule add https://github.com/okkur/syna.git themes/syna
 cd themes/syna
-git checkout v0.12.0 # Latest release as of now is v0.12.0
+git checkout v0.15 # Latest release as of now is v0.15.1
 ```
 
 *You can visit [Hugo's documentation](https://gohugo.io/themes/installing-and-using-themes/) on installing themes for more information.*
