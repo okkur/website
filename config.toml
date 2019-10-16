@@ -52,8 +52,8 @@ DefaultContentLanguage = "en"
   weight = 30
 
 [[menu.main]]
-  url = "/subscription/"
-  name = "Subscription"
+  url = "/sustain/"
+  name = "Sponsor/Sustain"
   weight = 40
 
 
