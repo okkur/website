@@ -1,4 +1,4 @@
-<a href='https://okkur.org'><img src='https://raw.githubusercontent.com/okkur/website/master/static/logo.svg?sanitize=true' width='500'/></a>
+<a href='https://okkur.org'><img src='https://raw.githubusercontent.com/okkur/website/master/static/images/logo.svg?sanitize=true' width='500'/></a>
 
 Sustainable Open Source
 

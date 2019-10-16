@@ -1,7 +1,7 @@
 project:
   name: "Okkur Labs Website"
   state: "stable"
-  image: "https://raw.githubusercontent.com/okkur/website/master/static/logo.svg?sanitize=true"
+  image: "https://raw.githubusercontent.com/okkur/website/master/static/images/logo.svg?sanitize=true"
   website: "https://okkur.org"
   oneLiner: "Sustainable Open Source"
   description: |
