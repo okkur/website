@@ -13,7 +13,7 @@ subtitle = "Milestone generation made easy"
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/okkur/gomiler"
+  url = "https://git.okkur.org/gomiler"
   color = "outline-secondary"
 +++
 

@@ -13,7 +13,7 @@ subtitle = "Docker registry cleaner"
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/okkur/regren"
+  url = "https://git.okkur.org/regren"
   color = "outline-secondary"
 +++
 
