@@ -23,7 +23,7 @@ subtitle = "DNS TXT record based redirects"
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/txtdirect/txtdirect"
+  url = "https://git.txtdirect.org/txtdirect"
   color = "outline-secondary"
 +++
 

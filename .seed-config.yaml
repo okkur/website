@@ -34,7 +34,7 @@ maintainers:
     nick: "stp-ip"
 
 repo:
-  link: "https://github.com/okkur/website/"
+  link: "https://git.okkur.org/website"
   type: "Github"
 
 badges:

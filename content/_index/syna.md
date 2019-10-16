@@ -23,7 +23,7 @@ subtitle = "Highly modular static site theme"
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/okkur/syna"
+  url = "https://git.okkur.org/syna"
   color = "outline-secondary"
 +++
 

@@ -13,7 +13,7 @@ subtitle = "Your Resume. Your Data."
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/resumic/schema"
+  url = "https://git.resumic.org/schema"
   color = "outline-secondary"
 +++
 

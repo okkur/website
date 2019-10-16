@@ -1,7 +1,7 @@
 +++
 fragment = "item"
 date = "2018-06-26"
-weight = 320
+weight = 330
 background = "light"
 align = "left"
 
@@ -13,7 +13,7 @@ subtitle = "Base files for your project"
 
 [[buttons]]
   text = "Repository"
-  url = "https://github.com/okkur/reposeed"
+  url = "https://git.okkur.org/reposeed"
   color = "outline-secondary"
 +++
 
