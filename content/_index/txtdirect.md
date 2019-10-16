@@ -6,7 +6,7 @@ background = "light"
 align = "left"
 
 title = "TXTDirect"
-subtitle = "DNS TXT record based redirects"
+subtitle = "Flexible vanity links using your own domain"
 
 [asset]
   image = "txtdirect.svg"
@@ -27,8 +27,8 @@ subtitle = "DNS TXT record based redirects"
   color = "outline-secondary"
 +++
 
-* Keep control of your data with your own DNS TXT-records
-* Control your entrypoints
-* Open source
+* Full control over your traffic
 * Transparent redirects
+* Your data with your own DNS TXT-records
+* Better insights into your traffic
 * No vendor lock-in

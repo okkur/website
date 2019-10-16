@@ -27,8 +27,8 @@ subtitle = "Highly modular static site theme"
   color = "outline-secondary"
 +++
 
+* Fully responsive design
+* Wide range of easy out of the box fragments
+* Flexible customization options with react components or fully custom
 * Modular setup with a multitude of included fragments
 * Fast static site via Hugo site generator
-* Open Source
-* Fully responsive
-* Customizable by injecting react code or add your own fragments
