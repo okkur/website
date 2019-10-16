@@ -1,6 +1,6 @@
-<a href='https://okkur.org'><img src='https://github.com/okkur/website/blob/master/static/images/logo.svg' width='500'/></a>
+<a href='https://okkur.org'><img src='https://raw.githubusercontent.com/okkur/website/master/static/logo.svg?sanitize=true' width='500'/></a>
 
-Sustainable. Open Source. Community.
+Sustainable Open Source
 
  [![state](https://img.shields.io/badge/state-stable-green.svg)]() [![license](https://img.shields.io/github/license/okkur/website.svg)](LICENSE)
 
