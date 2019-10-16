@@ -1,15 +1,15 @@
 +++
 fragment = "item"
-date = "2018-06-26"
+date = "2019-10-16"
 weight = 320
-background = "dark"
-align = "right"
+background = "light"
+align = "left"
 
 title = "Gomods"
 subtitle = "Go modules proxy with your own domain"
 
 [asset]
-  icon = "fas fa-calendar-alt"
+  icon = "fas fa-box"
 
 [[buttons]]
   text = "Repository"

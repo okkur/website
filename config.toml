@@ -1,9 +1,9 @@
 # Site settings
 baseurl = "https://about.okkur.org/"
 languageCode = "en-us"
-title = "Sustainable open source research"
+title = "Sustainable Open Source"
 theme = "syna"
-version = "0.4.0"
+version = "0.2.0"
 enableGitInfo = true
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
@@ -18,7 +18,7 @@ DefaultContentLanguage = "en"
 
 [params]
   name = "Okkur Labs"
-  description = "Sustainable open source research"
+  description = "Sustainable Open Source"
 
   [params.style]
     #background = "secondary"
@@ -34,7 +34,7 @@ DefaultContentLanguage = "en"
   [params.analytics.piwik]
     url = "https://stats.okkur.net"
     id = "14"
-    domain = "about.okkur.io" # Track subdomains via "*.example.com"
+    domain = "about.okkur.org" # Track subdomains via "*.example.com"
 
 [[menu.main]]
   url = "#txtdirect"

@@ -3,11 +3,11 @@ project:
   state: "stable"
   image: "https://github.com/okkur/website/blob/master/static/images/logo.svg"
   website: "https://okkur.org"
-  oneLiner: "Sustainable. Open Source. Community."
+  oneLiner: "Sustainable Open Source"
   description: |
     Okkur Labs website repository for the static website hosted at https://about.okkur.org.  
     Built with [Hugo](https://gohugo.io) and [Syna](https://syna.okkur.org).
-  version: "v0.1.0"
+  version: "v0.2.0"
   mainLicense: "CCByNcSa"
 
 vision:

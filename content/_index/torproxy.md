@@ -1,6 +1,6 @@
 +++
 fragment = "item"
-date = "2018-06-26"
+date = "2019-10-16"
 weight = 325
 background = "dark"
 align = "right"
@@ -9,7 +9,7 @@ title = "Torproxy"
 subtitle = "Tor/onion websites exposed via your own clearnet domain"
 
 [asset]
-  icon = "fas fa-chain"
+  icon = "fas fa-link"
 
 [[buttons]]
   text = "Repository"

@@ -17,7 +17,7 @@ button_url = "https://about.rekkur.com/?e=P2V2ZW50PWNvbnRhY3Q6dXBkYXRlJm1lc3NhZ2
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Support** Enterprise email support"
+  text = "**Support** Public issue tracker support"
   icon = "fas fa-check"
 
 [[features]]
@@ -25,7 +25,7 @@ button_url = "https://about.rekkur.com/?e=P2V2ZW50PWNvbnRhY3Q6dXBkYXRlJm1lc3NhZ2
   icon = "fas fa-check"
 
 [[features]]
-  text = "**Exposure** Highlight yourself as sponsor"
+  text = "**Exposure** Prominently highlight yourself as sponsor"
   icon = "fas fa-check"
 
 [[features]]
