@@ -16,6 +16,11 @@ lastmod = ["lastmod", ":git", "date"]
 
 DefaultContentLanguage = "en"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
+
 [params]
   name = "Okkur Labs"
   description = "Sustainable Open Source"
