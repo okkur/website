@@ -32,12 +32,12 @@ This fragment needs a fragment controller file and subitems. You need to create 
 *Markdown enabled*
 
 #### icons
-*type: array of [asset object]({{< ref "global-variables#asset)" >}}*
+*type: array of [asset object]({{< ref "global-variables" >}}#asset)s*
 
 Social media and other icons.
 
 #### asset
-*type: [asset object]({{< ref "global-variables#asset)" >}}*  
+*type: [asset object]({{< ref "global-variables" >}}#asset)*  
 *size: 250x250*
 
 Member avatar.

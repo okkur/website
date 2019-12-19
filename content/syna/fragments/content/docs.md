@@ -22,7 +22,7 @@ title = "Documentation"
 Ability to override the generated default summary by Hugo to be displayed in fragments such as List.
 
 #### asset
-*type: [asset object]({{< ref "global-variables#asset" >}})*
+*type: [asset object]({{< ref "global-variables" >}}#asset)*
 
 This value will render an image on top of the content.
 
@@ -39,6 +39,13 @@ If this object is present in fragment configuration a sidebar would appear next 
 
 ##### sidebar.title
 *type: string*
+
+##### sidebar.sticky
+*type: boolean*
+
+Makes the sidebar stick to top of the page when user scrolls past it.
+
+**NOTE:** Sticky sidebars will not be merged into one, when there are multiple content fragment in a page.
 
 ##### sidebar.align
 *type: string*  

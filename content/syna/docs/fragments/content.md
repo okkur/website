@@ -72,7 +72,7 @@ content
 - `_index` directory: For list pages, fragments are located in this directory
     - `index.md`: This file should be a headless page. If not, Hugo would render the page. You can use this file as fragment.
 
-[Global fragments]({{< ref "#global-fragments" >}}) such as nav and footer and copyright can be located in the `content/_global` directory.
+[Global fragments](#global-fragments) such as nav and footer and copyright can be located in the `content/_global` directory.
 Fragments located in this directory would appear in every page unless there's another fragment with the same name closer to the page.
 
 #### Global Fragments

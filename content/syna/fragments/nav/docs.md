@@ -71,7 +71,7 @@ content/blog/article-1 # level 2, shown
 *accepted values: primary, secondary, white, light, dark, warning, success, danger, info, transparent*
 
 #### asset
-*type: [asset object]({{< ref "global-variables#asset" >}})*
+*type: [asset object]({{< ref "global-variables" >}}#asset)*
 
 Asset will be shown as a clickable logo directing to the main page.
 
