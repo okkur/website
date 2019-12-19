@@ -37,14 +37,14 @@ DefaultContentLanguage = "en"
     domain = "about.okkur.org" # Track subdomains via "*.example.com"
 
 [[menu.main]]
-  url = "#txtdirect"
-  name = "TXTDirect"
-  weight = 10
-
-[[menu.main]]
   url = "/syna"
   name = "Syna"
   weight = 20
+
+[[menu.main]]
+  url = "#txtdirect"
+  name = "TXTDirect"
+  weight = 10
 
 [[menu.main]]
   url = "#resumic"
@@ -53,7 +53,7 @@ DefaultContentLanguage = "en"
 
 [[menu.main]]
   url = "/sustain/"
-  name = "Sponsor/Sustain"
+  name = "Sponsor & Sustain"
   weight = 40
 
 
