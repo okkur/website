@@ -12,7 +12,7 @@ This fragment needs a fragment controller file and subitems. You need to create 
 
 ### Events
 
-Pricing fragment doesn't subscribe to any events by default and only publishes events in [special circumstances]({{< ref "#usage-with-events" >}}). Please checkout [usage with events]({{< ref "#usage-with-events" >}}) to learn more. The published event is listened to in the [Stripe fragment]({{< ref "stripe" >}}) and will cause the Stripe fragment to change it's properties.
+Pricing fragment doesn't subscribe to any events by default and only publishes events in [special circumstances](#usage-with-events). Please checkout [usage with events](#usage-with-events) to learn more. The published event is listened to in the [Stripe fragment]({{< ref "stripe" >}}) and will cause the Stripe fragment to change it's properties.
 
 ### Variables
 

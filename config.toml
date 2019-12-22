@@ -16,6 +16,11 @@ lastmod = ["lastmod", ":git", "date"]
 
 DefaultContentLanguage = "en"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+     unsafe = true
+
 [params]
   name = "Okkur Labs"
   description = "Sustainable Open Source"
@@ -37,13 +42,13 @@ DefaultContentLanguage = "en"
     domain = "about.okkur.org" # Track subdomains via "*.example.com"
 
 [[menu.main]]
-  url = "#txtdirect"
-  name = "TXTDirect"
+  url = "/syna"
+  name = "Syna"
   weight = 10
 
 [[menu.main]]
-  url = "/syna"
-  name = "Syna"
+  url = "#txtdirect"
+  name = "TXTDirect"
   weight = 20
 
 [[menu.main]]
@@ -53,9 +58,13 @@ DefaultContentLanguage = "en"
 
 [[menu.main]]
   url = "/sustain/"
-  name = "Sponsor/Sustain"
+  name = "Sponsor & Sustain"
   weight = 40
 
+#[[menu.main]]
+#  url = "https://blog.okkur.org"
+#  name = "Blog"
+#  weight = 50
 
 [[menu.copyright_footer]]
   url = "/projects/"

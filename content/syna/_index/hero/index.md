@@ -18,7 +18,7 @@ title = "Syna Theme"
 
 [[buttons]]
   text = "Features"
-  url = "#features"
+  url = "syna/#features"
   color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]

@@ -18,7 +18,7 @@ title = "Documentation"
 Title of the item column.
 
 #### asset
-*type: [asset object]({{< ref "global-variables#asset" >}})*  
+*type: [asset object]{{< ref "/global-variables" >}}#asset)*  
 *size: 300x110*
 
 Either an image or an icon shown in the column.

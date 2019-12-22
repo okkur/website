@@ -12,6 +12,6 @@ sticky = true
 
 [repo_button]
   url = "https://github.com/okkur"
-  text = "Github" # default: "Star"
+  text = "Github"
   icon = "fab fa-github"
 +++

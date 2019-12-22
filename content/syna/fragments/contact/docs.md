@@ -10,7 +10,7 @@ title = "Documentation"
 
 Contact form can be used to receive messages.
 
-Various methods and providers are supported. You can use Netlify's form service, [formspree](https://formspree.io) or a custom endpoint.
+Various methods and providers are supported. You can use Netlify's form service, [formspree](formspree.io) or a custom endpoint.
 
 **NOTE:** If `netlify` variable is set to true then value of `post_url` will be dismissed since Contact fragment can send the data to a single endpoint only.
 
@@ -27,7 +27,7 @@ This fragment uses the [Events]({{< ref "events" >}}) api by default.
 
 ##### contact:update
 
-This event is not published by any fragment by default. But you can make use of it through [event urls]({{< ref "events#event-urls" >}}).
+This event is not published by any fragment by default. But you can make use of it through [event urls]({{< ref "events" >}}#event-urls).
 
 ###### name
 *type: string*

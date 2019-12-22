@@ -25,7 +25,7 @@ Use one instance of this fragment per page. Running more might lead to unexpecte
 Title of the menu displayed in the footer.
 
 #### asset
-*type: [asset object]({{< ref "global-variables#asset" >}})*  
+*type: [asset object]({{< ref "global-variables" >}}#asset)*  
 *size: 220x100*
 
 The asset such as images or graphics is displayed on top left of the fragment and can be used for a logo.

@@ -1,9 +1,9 @@
 +++
 fragment = "item"
 date = "2018-06-26"
-weight = 310
-background = "light"
-align = "left"
+weight = 315
+background = "dark"
+align = "right"
 
 title = "TXTDirect"
 subtitle = "Flexible vanity links using your own domain"

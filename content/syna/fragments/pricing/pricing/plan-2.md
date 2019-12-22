@@ -9,7 +9,7 @@ currency = "usd"
 highlight = true
 
 button_text = "Get started"
-button_url = "/fragments/stripe?event=pricing:change&product=Starting%20plan&price=$9.99/mo&currency=usd"
+button_url = "/syna/fragments/stripe?event=pricing:change&product=Starting%20plan&price=$9.99/mo&currency=usd"
 
 [[features]]
   text = "**Basic** feature"

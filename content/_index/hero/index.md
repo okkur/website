@@ -9,7 +9,7 @@ title = "Okkur Labs"
 subtitle = "Sustainable Open Source"
 
 [header]
-  image = "header.jpg"
+  image = "header_duo_dark.png"
 
 [asset]
   image = "logo-white.svg"

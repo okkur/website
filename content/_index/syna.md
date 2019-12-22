@@ -1,9 +1,9 @@
 +++
 fragment = "item"
 date = "2018-06-26"
-weight = 315
-background = "dark"
-align = "right"
+weight = 310
+background = "light"
+align = "left"
 
 title = "Syna"
 subtitle = "Highly modular static site theme"
