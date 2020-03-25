@@ -13,5 +13,9 @@ Changes needed:
 * Change section for list within `syna/example/blog/_global/sidebar-list.md` to `syna/example/blog/`
 * Change section for list within `syna/docs/_global/sidebar.md` to `syna/docs`
 
-* Change links in syna/_index/hero/index.md to `syna/*`
-* Change links in syna/fragments/pricing/plan-2.md to `syna/*`
+* Change links in `syna/fragments/pricing/plan-2.md` to `syna/*`
+* Change links in `syna/fragments/contact/docs.md` to `syna/*`
+* Change links in `syna/fragments/stripe/docs.md` to `syna/*`
+* Change links in `syna/docs/fragments/content.md` to `syna/*`
+
+* Change links in (if needed) `syna/_index/hero/index.md` to `syna/*`
