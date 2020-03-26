@@ -3,7 +3,7 @@ fragment = "list"
 slot = "index/sidebar"
 weight = 20
 
-section = "example/blog"
+section = "syna/example/blog"
 padding = "px-3" # Experimental. May be removed without notice
 summary = false
 images = false
