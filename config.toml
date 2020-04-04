@@ -21,6 +21,10 @@ DefaultContentLanguage = "en"
     [markup.goldmark.renderer]
      unsafe = true
 
+  # disable highlighting until #672 is fixed
+  [markup.highlight]
+    codeFences = false
+
 [params]
   name = "Okkur Labs"
   description = "Sustainable Open Source"
