@@ -28,7 +28,7 @@ Set the background of the fragment.
 Background also affects the text color of the fragment's content.
 For the background colors of `white`, `light`, `secondary` and `primary` we use Bootstrap's `text_dark` class on content and for other backgrounds, we use `text_light`.
 
-List of all supported colors can be found in [supported colors]({{< ref "supported-colors" >}}) section of the docs.
+List of all supported colors can be found in [supported colors]({{< ref "styling" >}}#supported-colors) section of the docs.
 
 #### title
 *type: string*
@@ -85,3 +85,15 @@ Action/clickable URL of the image or the icon.
 *type: string*
 
 If `asset.image` is set, `text` will be used as alternative text (alt-text) of the image.
+
+#### disable
+*type: boolean*
+
+If set to `true`, Syna will not register the fragment. This is useful for drafting fragments.
+
+**NOTE:** `disable` doesn't register the fragment at all. This means you can not remove a global fragment in a specific page by a duplicate disabled fragment. In order to hide a global fragment in a page, use [`hide`](#hide).
+
+#### hide
+*type: boolean*
+
+If set to `true`, Syna will not call the fragment and will hide it. Useful for hiding a global fragment in the page. For more information, please checkout [global fragments]({{< ref "syna/docs/fragments">}}/#global-fragments).

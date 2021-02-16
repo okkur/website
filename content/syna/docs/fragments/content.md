@@ -84,8 +84,26 @@ All fragments within this directory are rendered on all pages by default.
 To overwrite a global fragment create a per page fragment with the same filename.
 This would overwrite the global one.
 
+In order to hide a global fragment in a specific page or section, you can use the [`hide` global variable]({{< ref "global-variables">}}/#hide).
+
 Aside from the `content/_global/` directory, you can create `_global/` directory in any section's directory (`content/[section]/_global/`).
 Each section can have global fragments and if there are multiple fragments with the same name, the fragment closest to the page would override the others.
+
+##### Disabling a global fragment in specific pages/sections
+
+As global fragments are displayed in all child pages, you might want to
+disable them in some of those pages or specific sections. You can do so by
+duplicating that fragment in the page you want and disable it there.
+
+For example if you have `/content/_global/nav.md` and want to disable it in your
+blog, create `/content/blog/_global/nav.md` with following configuration:
+
+```
++++
+fragment = "nav"
+disabled = true
++++
+```
 
 ### Built-in fragments
 
