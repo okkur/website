@@ -15,7 +15,7 @@ subtitle = ""
 *Information in accordance with section 5 TMG*
 
 **Website provided by:**  
-Okkur Labs GmbH
+Okkur Labs gGmbH
 
 Hauptstrasse 15  
 85716 Unterschleissheim  

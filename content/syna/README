@@ -17,5 +17,6 @@ Changes needed:
 * Change links in `syna/fragments/contact/docs.md` to `syna/*`
 * Change links in `syna/fragments/stripe/docs.md` to `syna/*`
 * Change links in `syna/docs/fragments/content.md` to `syna/*`
+* Change links in `syna/docs/global-variables/content.md` to `syna/*`
 
 * Change links in (if needed) `syna/_index/hero/index.md` to `syna/*`
